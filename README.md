@@ -32,5 +32,3 @@ youtube-dl
 # Other Information
 
 The Sourcefile is the converterSourceFile.py
-
-The Build is located in the build directory
